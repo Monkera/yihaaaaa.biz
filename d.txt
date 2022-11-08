@@ -11,3 +11,7 @@ subnetz-adressen
 128.128.128.66----->2.Nutzer
 128.128.128.66----->3.Nutzer
 128.128.128.66----->4.Nutzer
+
+# Stückliste mit Preisen / Verfügbarkeit
+### Accesspoint: Access Point UniFi AP-nanoHD, Stückanzahl: 3, Preis : 189.- x 3 = 567.- , Verfügbarkeit: 09.11.2022
+### Drucker : HP OfficeJet Pro 8022e All-in-One Drucker Tintenstrahl, Stückanzahl: 1, Preis : 179.-     Verfügbarkeit: 09.11.2022
