@@ -6,14 +6,13 @@ subnetz-adressen
 128.128.128.65----->Router
 128.128.128.66----->Firewall
 128.128.128.67----->Switch 
-128.128.128.68----->Firewall
-128.128.128.69----->1.Nutzer
-128.128.128.70----->2.Nutzer
-128.128.128.71----->3.Nutzer
-128.128.128.72----->4.Nutzer
-128.128.128.73----->5.Nutzer
-128.128.128.74----->6.Nutzer
-128.128.128.75----->7.Nutzer
+128.128.128.68----->Access Pint 
+128.128.128.69----->Abteilungsserver
+128.128.128.70----->1.Nutzer
+128.128.128.72----->2.Nutzer
+128.128.128.73----->3.Nutzer
+128.128.128.74----->4.Nutzer
+128.128.128.75----->5.Nutzer
 
 # **Stückliste mit Preisen / Verfügbarkeit**
 ### **Accesspoint**: Access Point UniFi AP-nanoHD, Stückanzahl: 3, Preis : 189.- x 3 = 567.- , Verfügbarkeit: 09.11.2022
